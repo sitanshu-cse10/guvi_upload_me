@@ -10,7 +10,7 @@ int main() {
     }
     else if(number==0 || number <0 )
     {
-        cout<<"Invalid Input";
+        cout<<"invalid";
     }
     else
     {
