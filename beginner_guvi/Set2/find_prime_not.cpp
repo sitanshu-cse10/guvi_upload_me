@@ -26,7 +26,7 @@ int main() {
    prime_check(prime);
     if(prime[num])
     {
-        cout<<"prime";
+        cout<<"yes";
     }
     else
     {
